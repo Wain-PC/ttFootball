@@ -1,0 +1,7 @@
+ul.notifications {
+    position: fixed;
+}
+
+.dataTables_wrapper .col-xs-12 {
+    overflow: auto;
+}
